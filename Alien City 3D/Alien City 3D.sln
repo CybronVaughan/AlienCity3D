@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alien City 3D", "Assembly-CSharp.csproj", "{7B92E569-D51A-F7BD-8F75-9967503F60D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alien City 3D", "Alien City 3D.csproj", "{888AD927-8231-F7B5-38F8-6C1F3BE30407}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,10 +9,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7B92E569-D51A-F7BD-8F75-9967503F60D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7B92E569-D51A-F7BD-8F75-9967503F60D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7B92E569-D51A-F7BD-8F75-9967503F60D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7B92E569-D51A-F7BD-8F75-9967503F60D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{888AD927-8231-F7B5-38F8-6C1F3BE30407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{888AD927-8231-F7B5-38F8-6C1F3BE30407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{888AD927-8231-F7B5-38F8-6C1F3BE30407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{888AD927-8231-F7B5-38F8-6C1F3BE30407}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
