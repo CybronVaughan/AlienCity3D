@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alien City 3D UC07", "Assembly-CSharp.csproj", "{654CDFF7-4401-9BBE-24E1-56DE3409DA16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alien City 3D UC07", "Assembly-CSharp-firstpass.csproj", "{E10EAE8D-FCF7-C70D-E93E-1365CD2FC257}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alien City 3D UC07", "Assembly-CSharp-Editor-firstpass.csproj", "{3A7EF291-C9DA-5562-8440-0431AA2DC838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{654CDFF7-4401-9BBE-24E1-56DE3409DA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654CDFF7-4401-9BBE-24E1-56DE3409DA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654CDFF7-4401-9BBE-24E1-56DE3409DA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654CDFF7-4401-9BBE-24E1-56DE3409DA16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E10EAE8D-FCF7-C70D-E93E-1365CD2FC257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E10EAE8D-FCF7-C70D-E93E-1365CD2FC257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E10EAE8D-FCF7-C70D-E93E-1365CD2FC257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E10EAE8D-FCF7-C70D-E93E-1365CD2FC257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A7EF291-C9DA-5562-8440-0431AA2DC838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A7EF291-C9DA-5562-8440-0431AA2DC838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A7EF291-C9DA-5562-8440-0431AA2DC838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A7EF291-C9DA-5562-8440-0431AA2DC838}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
