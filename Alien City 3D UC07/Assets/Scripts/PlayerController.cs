@@ -34,7 +34,7 @@ public class PlayerController : MonoBehaviour {
 			gravidade = Vector3.zero;
 			if(jump)
 			{
-				gravidade.y = 6f;
+				gravidade.y = 4f;
 				jump = false;
 			}
 		}
