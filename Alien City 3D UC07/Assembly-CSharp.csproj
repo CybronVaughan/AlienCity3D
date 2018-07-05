@@ -61,6 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Armadilha.cs" />
     <Compile Include="Assets\Scripts\CarregaMenu.cs" />
     <Compile Include="Assets\Scripts\ConfigSom.cs" />
     <Compile Include="Assets\Scripts\InstanciaPedras.cs" />
@@ -68,6 +69,9 @@
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\RotacionaPedra.cs" />
     <Compile Include="Assets\Scripts\TocaSom.cs" />
+    <Compile Include="Assets\VibrationPlugin\Examples\VibrationExample.cs" />
+    <Compile Include="Assets\VibrationPlugin\Sources\Vibration.cs" />
+    <Compile Include="Assets\VibrationPlugin\Sources\VibrationActivity.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/biell/OneDrive/Documentos/GitHub/AlienCity3D/Alien City 3D UC07/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>

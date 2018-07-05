@@ -98,6 +98,7 @@
     <Compile Include="Assets\plugins\LeoLuz\Virtual Plug and Play Joystick\Utilities\RootMotionController.cs" />
     <Compile Include="Assets\plugins\LeoLuz\Virtual Plug and Play Joystick\Utilities\stringUtility.cs" />
     <Compile Include="Assets\plugins\LeoLuz\Virtual Plug and Play Joystick\Utilities\TextureUtility.cs" />
+    <None Include="Assets\plugins\Android\AndroidManifest.xml" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/biell/OneDrive/Documentos/GitHub/AlienCity3D/Alien City 3D UC07/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
